@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">SharedPreferences</string>
+    <string name="eres_vip">Eres VIP?</string>
+    <string name="continuar">Continuar</string>
+    <string name="nombre">Nombre</string>
 </resources>
